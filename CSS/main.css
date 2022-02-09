@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+body {
+  overflow-x: hidden;
+  /* Hide horizontal scrollbar */
+}
+/*# sourceMappingURL=main.css.map */
